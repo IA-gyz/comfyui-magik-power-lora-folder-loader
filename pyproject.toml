@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-power-lora-folder-loader"
+version = "1.0.0"
+description = 'Magik Power Lora Folder Loader'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-power-lora-folder-loader"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Power Lora Folder Loader"
